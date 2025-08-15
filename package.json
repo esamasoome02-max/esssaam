@@ -15,7 +15,9 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "sqlite": "^4.2.2",
+    "sqlite": "^5.1.7"
+
+
     "sqlite3": "^5.1.7"
   }
 }
