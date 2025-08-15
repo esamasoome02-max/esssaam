@@ -1,0 +1,21 @@
+{
+  "name": "finance-all-in-one",
+  "version": "1.0.0",
+  "description": "All-in-one Finance API + UI (no folders needed)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite": "^4.2.2",
+    "sqlite3": "^5.1.7"
+  }
+}
